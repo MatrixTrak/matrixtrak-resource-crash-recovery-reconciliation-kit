@@ -49,4 +49,4 @@ Reconciliation is not optional. Running a bot with unknown state creates the con
 
 ## Related Blog Post
 
-[Crash Recovery: Reconciliation Loops That Prevent Double Orders](/blog/crash-recovery-reconciliation-loops-trading-bots)
+[Crash Recovery: Reconciliation Loops That Prevent Double Orders](https://matrixtrak.com/blog/crash-recovery-reconciliation-loops-trading-bots)

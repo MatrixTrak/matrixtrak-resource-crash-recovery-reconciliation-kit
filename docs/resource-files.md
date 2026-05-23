@@ -10,6 +10,6 @@ Resource slug: crash-recovery-reconciliation-kit
 
 ## Included Files
 
-- resources/README.md (1921 bytes)
+- resources/README.md (1943 bytes)
 - resources/reconciliation-loop-template.ts (14215 bytes)
 - resources/startup-sequence-checklist.md (5841 bytes)
