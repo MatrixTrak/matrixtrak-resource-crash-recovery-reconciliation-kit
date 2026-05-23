@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-05-23T11:14:29.123Z",
+  "resourceSlug": "crash-recovery-reconciliation-kit",
+  "title": "Crash Recovery Reconciliation Kit",
+  "description": "Reconciliation loop template for trading bots—detect and correct state drift on startup to prevent double orders and orphan positions.",
+  "category": "Crypto Automation",
+  "pillar": "automation",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/crash-recovery-reconciliation-kit",
+  "primaryPostSlugs": [
+    "crash-recovery-reconciliation-loops-trading-bots"
+  ],
+  "secondaryRelatedPostSlugs": [
+    "idempotency-keys-for-apis-prevent-duplicate-orders-emails-writes"
+  ]
+}
