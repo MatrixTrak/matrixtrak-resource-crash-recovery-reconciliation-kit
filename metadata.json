@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-05-23T12:20:10.397Z",
+  "generatedAt": "2026-05-23T12:44:37.452Z",
   "resourceSlug": "crash-recovery-reconciliation-kit",
   "title": "Crash Recovery Reconciliation Kit",
   "description": "Reconciliation loop template for trading bots—detect and correct state drift on startup to prevent double orders and orphan positions.",
   "category": "Crypto Automation",
   "pillar": "automation",
+  "access": "free",
+  "sourcePublicPath": "/ship/automation/crash-recovery-reconciliation-loops-trading-bots",
+  "includedRepoFiles": [
+    "resources/README.md",
+    "resources/reconciliation-loop-template.ts",
+    "resources/startup-sequence-checklist.md"
+  ],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/crash-recovery-reconciliation-kit",
   "primaryPostSlugs": [
     "crash-recovery-reconciliation-loops-trading-bots"

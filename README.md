@@ -17,6 +17,16 @@ It is designed for quick implementation support, community sharing, and stable v
 
 Reconciliation loop template for trading bots—detect and correct state drift on startup to prevent double orders and orphan positions.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/README.md
+  - resources/reconciliation-loop-template.ts
+  - resources/startup-sequence-checklist.md
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
